@@ -10,4 +10,8 @@ This is a website for the Jhalak Dance Competition! Comes equipped with capabili
 * [HTML]
 * [CSS]
 * [Javascript]
-* [SASS]
+* [SCSS]
+
+### Deployed LIVE
+
+Visit www.texasjhalak.com
